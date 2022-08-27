@@ -1,5 +1,13 @@
 outline for training:
 
+* Exploring setup and onboarding:
+ * New Github, old github
+ * making a savio login
+ * pip and making their own environment!
+ * ChemAxon license
+ 
+HOW are we going to organize and where code, workspace/flow will go.  
+
 * Primary goal: make sure new and old members know the ins and outs of all aspects of the project
   * Reading papers
   * How to use cheminformatics software
